@@ -1,4 +1,4 @@
-#STRIKE Bolt 1C
+# STRIKE Bolt 1C
 
 ## Software Versions
 
