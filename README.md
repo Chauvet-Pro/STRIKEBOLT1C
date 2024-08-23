@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.0.1 - STRIKE Bolt 1C](https://github.com/Chauvet-Pro/STRIKEBOLT1C/blob/7124777d2b2e01fbe42afc2a1a920d185a0c6dd4/firmware/V1.0.1.zip)
+- Optimized thermal performance and protections
+
 [V1.0.0 - STRIKE Bolt 1C](https://github.com/Chauvet-Pro/STRIKEBOLT1C/blob/c9a9b307ace693ed44d4bab907cc797b90562b46/firmware/V1.0.0.zip)
 - Released software version
 
