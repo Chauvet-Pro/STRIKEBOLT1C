@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.0.2 - STRIKE Bolt 1C](https://github.com/Chauvet-Pro/STRIKEBOLT1C/blob/dcb772987b64cafd255a77bec798bf20d2c037d5/firmware/V1.0.2.zip)
+- Improved low-end dimming performance
+
 [V1.0.1 - STRIKE Bolt 1C](https://github.com/Chauvet-Pro/STRIKEBOLT1C/blob/7124777d2b2e01fbe42afc2a1a920d185a0c6dd4/firmware/V1.0.1.zip)
 - Optimized thermal performance and protections
 
